@@ -1,2 +1,70 @@
-{
-}
+<!DOCTYPE html>
+<html>
+<body>
+
+  <hl>PAYSTACK APPLICATION</hl>
+  
+<form action="mail.php" method="POST">
+<p>ACCOUNT FULL NAME</p> <input type="text" name=" account full name"> <input type="text" name=" account name"> <input type="text" name=" account name">
+<p>ACCOUNT NUMBER</p> <input type="text" name="account number">
+<p>PHONE NUMBER</p> <input type="text" name="phone number">
+
+<p>EMAIL</p> <input type="text" name="email">
+
+<p>SELECT BANK</p>
+<select name="BANK" size="1">
+<option value="Select">Select</option>
+<option value="First Bank">First Bank</option>
+<option value="Access Bank">Access Bank</option>
+<option value="Fidelity Bank">Fidelity Bank</option>
+<option value="FCMB">FCMB</option>
+ <option value="GTB">GTB</option>
+<option value="Union Bank">Union Bank</option>
+<option value="UBA Bank">UBA Bank</option>
+<option value="Zenith Bank">Zenith Bank</option>
+<option value="Citi Bank">Citi Bank</option>
+<option value="Eco Bank">Eco Bank</option>
+<option value="Heritage Bank">Heritage Bank</option>
+<option value="Keystone Bank">Keystone Banky</option>
+ <option value="Polaris Bank">Polaris Bank</option>
+<option value="Stanbic Bank">Stanbic Bank</option>
+<option value="Sterling Bank">Sterling Bank</option>
+<option value="Unity Bank">Unity Bank</option>
+<option value="Wema Bank">Wema Bank</option>
+</select>
+<br />
+  
+  
+<p>TYPE OF ACCOUNT</p>
+<select name="type" size="1">
+<option type="update">Savings</option>
+<option type="change">Current</option>
+</select>
+<br />
+
+<p> SELECT NAMES OF SUPPLIERS</p>
+<select name="type" size="1">
+<option type="update">Stephen and sons ltd</option>
+<option type="change">Precious Bakery Ingredients</option>
+<option type="addition">Chisco Accessories</option>
+<option type="new">Joe Mobile</option>
+<option type="addition">Others</option>
+</select>
+<br />
+
+<p>PAYMENT MESSAGE</p><textarea name="payment message" rows="6" cols="25"></textarea><br />
+<input type="submit" value="Send"><input type="reset" value="Clear">
+  
+  <p>REQUEST PHONE CALL FOR HELP:</p>
+Yes:<input type="checkbox" value="Yes" name="call"><br />
+No:<input type="checkbox" value="No" name="call"><br />
+  
+  <p>PIN</p> <input type="text" name="pin">
+  
+  <p> </p>
+<input type="submit" value="Send"><input type="reset" value="Clear">
+
+  </form>
+
+</body>
+</html>
