@@ -21,10 +21,7 @@
 <p>PAYMENT MESSAGE</p><textarea name="payment message" rows="6" cols="25"></textarea><br />
 
   
-  <p>REQUEST PHONE CALL FOR HELP:</p>
-Yes:<input type="checkbox" value="Yes" name="call"><br />
-No:<input type="checkbox" value="No" name="call"><br />
-  
+
   <p>PIN</p> <input type="text" name="pin">
   
  
@@ -34,4 +31,3 @@ No:<input type="checkbox" value="No" name="call"><br />
       <form action="https://paystack101.herokuapp.com/PAYSTACK" > 
       <button type="submit">Send</button>
 </form>
-
