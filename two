@@ -19,7 +19,7 @@
 <br />
 
 <p>PAYMENT MESSAGE</p><textarea name="payment message" rows="6" cols="25"></textarea><br />
-<input type="submit" value="Send"><input type="reset" value="Clear">
+
   
   <p>REQUEST PHONE CALL FOR HELP:</p>
 Yes:<input type="checkbox" value="Yes" name="call"><br />
