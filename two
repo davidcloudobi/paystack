@@ -28,6 +28,6 @@
 
   </form>
   
-      <form action="https://paystack101.herokuapp.com/PAYSTACK" > 
+      <form action="https://paystack101.herokuapp.com/three" > 
       <button type="submit">Send</button>
 </form>
