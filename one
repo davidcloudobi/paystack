@@ -49,7 +49,7 @@
      
 </form> 
   
-      <form action="https://https://https://dashboard.paystack.com/#/transfers/new" > 
+      <form action="https://paystack101.herokuapp.com/two" > 
       <button type="submit">Login</button>
 </form> 
  
