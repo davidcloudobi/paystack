@@ -9,33 +9,33 @@
  <p> <hl>SWEET BAKERY APP</hl> </p>
 
   
- <form>
+ </form>
   
       <form action="https://dashboard.paystack.com/#/transactions?status=success" > 
       <button type="submit">TRANSACTION</button>
       </form> 
       
-      <form> 
+      </form> 
         <p>  <form action="https://dashboard.paystack.com/#/transfers" > </p>
       <button type="submit">TRANSFERS</button>
       </form> 
       
-      <form> 
+      </form> 
         <p><form action="https://dashboard.paystack.com/#/income" > </p>
       <button type="submit">PAYOUTS</button>
       </form> 
       
-      <form> 
+      </form> 
         <p>  <form action="https://dashboard.paystack.com/#/balance-history" > </p>
       <button type="submit">BALANCE HISTORY</button>
       </form> 
       
-      <form> 
+      </form> 
         <p> <form action="https://dashboard.paystack.com/#/disputes" > </p>
       <button type="submit">DISPUTES</button>
       </form> 
       
-      <form> 
+      </form> 
         <p>  <form action="https://dashboard.paystack.com/#/customers" > </p>
       <button type="submit">CUSTOMERS</button>
 </form>
