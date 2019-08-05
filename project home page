@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+  <hl>WELCOME TO PAYSTACK WEB APP</hl>
+ <p> <hl>SWEET BAKERY APP</hl> </p>
+ <p> <hl>ACCOUNT DETAILS</hl> </p>
+  <p> <hl>Mrs Stella Obi</hl> </p>
+ <p> <hl>Eco Bank</hl> </p>
+  <p> <hl>2234562456</hl> </p>
+  
+  </form> 
+  
+      <form action="https://paystack101.herokuapp.com/two" > 
+      <button type="submit">LOGIN</button>
+</form>
+  
+
+ 
+ 
+ 
+</body>
+</html>
+
+
+</body>
+</html>
