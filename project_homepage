@@ -6,19 +6,19 @@
 <html>
 <body>
 
-  <body style="background-color:powderblue;">
+
   <b>  
-   <h1 style="color:blue; font-family:verdana; font-size:500%; text-align:center; "> WELCOME TO PAYSTACK WEB APP</h1>
- <p> <h1 style="color:green; font-family:verdana; font-size:400%; text-align:center; ">   SWEET BAKERY APP</h1> </p>
- <p>  <h1 style="color:green; font-family:verdana; font-size:300%;  ">  ACCOUNT DETAILS </h1> </p>
-  <p>  <h1 style="color:green; font-family:verdana; font-size:200%;  ">   Mrs Stella Obi</h1> </p>
- <p> <h1 style="color:green; font-family:verdana; font-size:200%;  ">   Eco Bank  </h1> </p>
-  <p>  <h1 style="color:green; font-family:verdana; font-size:200%;  ">  2234562456</h1> </p>
+   <h1 style="color:blue; font-family:verdana; font-size:300%; text-align:center; "> WELCOME TO PAYSTACK WEB APP</h1>
+ <p> <h1 style="color:green; font-family:verdana; font-size:200%; text-align:center; ">   SWEET BAKERY APP</h1> </p>
+ <p>  <h1 style="color:green; font-family:verdana; font-size:100%;  ">  ACCOUNT DETAILS </h1> </p>
+  <p>  <h1 style="color:green; font-family:verdana; font-size:100%;  ">   Mrs Stella Obi</h1> </p>
+ <p> <h1 style="color:green; font-family:verdana; font-size:100%;  ">   Eco Bank  </h1> </p>
+  <p>  <h1 style="color:green; font-family:verdana; font-size:100%;  ">  2234562456</h1> </p>
   
   </form> 
   
       <form action="https://paystack101.herokuapp.com/project_tools" > 
-      <button type="submit"style="color:blue; font-size:300% "  > LOGIN</button>
+      <button type="submit"style="color:blue; font-size:100% "  > LOGIN</button>
 </form>
   
 
