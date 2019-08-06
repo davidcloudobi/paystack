@@ -18,7 +18,7 @@
   </form> 
   
       <form action="https://paystack101.herokuapp.com/project_tools" > 
-      <button type="submit"style="color:blue; font-size:100% "  > LOGIN</button>
+      <button type="submit"style="color:blue; font-size:100%; text-align:center; "  > LOGIN</button>
 </form>
   
 
