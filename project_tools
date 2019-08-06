@@ -17,42 +17,42 @@
   
   
       <form action="https://dashboard.paystack.com/#/transactions?status=success" > 
-      <button type="submit" style="color:green; font-family:verdana; font-size:100%; text-align:center; " >TRANSACTION</button>
+      <button type="submit" style="color:green; font-family:verdana; font-size:50%; text-align:center; " >TRANSACTION</button>
      
      </form> 
       
       </form> 
       
         <p>  <form action="https://dashboard.paystack.com/#/transfers" > </p>
-      <button type="submit" style="color:green; font-family:verdana; font-size:100%; text-align:center; " >TRANSFERS</button>
+      <button type="submit" style="color:green; font-family:verdana; font-size:50%; text-align:center; " >TRANSFERS</button>
     
     </form> 
       
       </form> 
       
         <p><form action="https://dashboard.paystack.com/#/income" > </p>
-      <button type="submit" style="color:green; font-family:verdana; font-size:100%; text-align:center; "  >PAYOUTS</button>
+      <button type="submit" style="color:green; font-family:verdana; font-size:50%; text-align:center; "  >PAYOUTS</button>
      
      </form> 
       
       </form>
       
         <p>  <form action="https://dashboard.paystack.com/#/balance-history" > </p>
-      <button type="submit" style="color:green; font-family:verdana; font-size:100%; text-align:center; "  >BALANCE HISTORY</button>
+      <button type="submit" style="color:green; font-family:verdana; font-size:50%; text-align:center; "  >BALANCE HISTORY</button>
       
       </form> 
       
       </form> 
       
         <p> <form action="https://dashboard.paystack.com/#/disputes" > </p>
-      <button type="submit"  style="color:green; font-family:verdana; font-size:100%; text-align:center; "  >DISPUTES</button>
+      <button type="submit"  style="color:green; font-family:verdana; font-size:50%; text-align:center; "  >DISPUTES</button>
      
      </form> 
       
       </form>
       
         <p>  <form action="https://dashboard.paystack.com/#/customers" > </p>
-      <button type="submit"  style="color:green; font-family:verdana; font-size:100%; text-align:center; "  >CUSTOMERS</button>
+      <button type="submit"  style="color:green; font-family:verdana; font-size:50%; text-align:center; "  >CUSTOMERS</button>
 
 </form>
   
